@@ -1,0 +1,40 @@
+.ant-card-head {
+    font-size: 26px;
+    padding: 5px 0 0 40px;
+}
+.ant-card{
+    font-size: 22px;
+}
+
+table {
+    margin-top: 2px;
+    height: 100%;
+}
+
+.ant-table{
+    font-size: 20px;
+}
+
+.ant-checkbox-inner {
+    display: none;
+}
+
+.table-not-editable{
+    cursor: no-drop;
+}
+
+input.ant-radio-input {
+    width: calc(100vw - 248px);
+    height: 53.5px;
+    top: 50%;
+    margin-top: -26px;
+}
+
+.ant-tabs-bar.ant-tabs-left-bar {
+    height: calc(100vh - 330px);
+    min-width: 200px;
+
+}
+.ant-tabs-nav-wrap{
+    font-size: 20px;
+}
